@@ -5,3 +5,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary
 body {
     background-color: dodgerblue;
 }
+
+h1 {
+    color: mediumvioletred;
+}
